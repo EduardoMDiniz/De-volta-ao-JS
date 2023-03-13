@@ -1,0 +1,6 @@
+git status
+git add .
+git commit -m "Nome da atualização"
+git push -u origin main para o primeiro push de um repositorio
+
+git push normal dps da 1x
